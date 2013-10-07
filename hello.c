@@ -4,5 +4,5 @@
 
 main()
 {
-  printf("Greetings from %s", MSG1);
+  printf("Greetings from %s\n", MSG1);
 }
