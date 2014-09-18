@@ -6,5 +6,5 @@ main(argc, argv)
 int argc;
 char **argv;
 {
-  printf("Greetings from %s\n%s", argv[1], MSG1);
+  printf("Felicitations from %s\n%s", argv[1], MSG1);
 }
