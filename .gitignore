@@ -1,3 +1,4 @@
 # ignore all emacs backup files whatever directory they're in
 **/*~
-
+# ignore the executable made by the makefile
+hello
